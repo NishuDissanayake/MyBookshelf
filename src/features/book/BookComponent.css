@@ -1,0 +1,44 @@
+.booksComponent {
+    padding: 20px;
+    max-width: 600px;
+    margin: auto;
+  }
+  
+  .bookForm {
+    margin-bottom: 20px;
+  }
+  
+  .bookInput {
+    padding: 10px;
+    margin-right: 10px;
+    width: 150px;
+  }
+  
+  .addBookButton {
+    margin-top: 20px;
+    padding: 10px 15px;
+  }
+  
+  .booksList {
+    list-style-type: none;
+    padding: 0;
+  }
+  
+  .bookItem {
+    margin-bottom: 10px;
+    background-color: #f0f0f0;
+    color: black;
+    padding: 10px;
+    border-radius: 5px;
+  }
+  
+  .deleteButton {
+    margin-left: 20px;
+    background-color: red;
+    color: white;
+    padding: 5px 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
